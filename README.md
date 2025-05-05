@@ -35,10 +35,6 @@ Ce projet est une page web dédiée à la Karmine Corp, une organisation esporti
 
 Les contributions sont les bienvenues ! 
 
-## Licence
-
-Ce projet est sous licence [MIT](LICENSE).
-
 ## Auteurs
 
 - **Raven** - Développeur principal
